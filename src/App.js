@@ -135,7 +135,7 @@ class App extends Component {
         </button>
 
         <div className="app-question-panel">
-          <h1 className="app-header">QUIZILLLLLA!</h1>
+          <h1 className="app-header">QUIZWHIZ</h1>
 
           <div className="app-question-container">
             <Question
